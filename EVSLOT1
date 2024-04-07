@@ -1,0 +1,47 @@
+<!DOCTYPEhtml PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Power Up</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/cufon-yui.js"></script>
+<script type="text/javascript" src="js/arial.js"></script>
+<script type="text/javascript" src="js/cuf_run.js"></script>
+</head>
+<body>
+<!-- START PAGE SOURCE -->
+<div class="main">
+  <div class="header">
+    <div class="header_resize">
+      <div class="logo">
+        <h1><a href="index.html"><span>Power</span>Up<br />
+          <small>Go Green!</small></a></h1>
+      </div>
+      <div class="clr"></div>
+      <div class="header_text_bg">
+        <div class="menu">
+          <ul>
+            <li><a href="index.html" class="active">Home</a></li>
+            </ul>
+        </div>
+       <div class="clr"></div>
+        <img src="images/ev5r.jpg" alt="" width="356" height="236" />
+        <div >
+          <h2 style="color:#7E16A8">        Welcome, You have  Plugged into Charging Slot-1 ! </h2>
+          <p style="color:black"> &nbsp;&nbsp;&nbsp; The battery charging status of your vehicle plugged in Slot-1 is  available in <br> &nbsp;&nbsp;&nbsp;
+          the IoT App .The IoT App can be downloaded from below.The credentials  <br> &nbsp;&nbsp;&nbsp; &nbsp;for Signing to the App is as follows.</p> 
+            <p>  <span style="color:#000000">&nbsp;&nbsp;&nbsp;Username:</span> <span style="color:#7E16A8">EVSlot1@gmail.com</span> </p> 
+          <p> <span style="color:#000000">&nbsp;&nbsp;&nbsp;Password</span> <span style="color:#7E16A8">:EVSlot1@12345</span> </p> 
+          
+        </div>
+        <div class="clr"></div>
+      </div>
+    </div>
+    <div class="clr"></div>
+  </div>
+  
+
+  <div class="clr"></div>
+  <div class="body">
+    <div class="body_resize">
+      <div class="left">
